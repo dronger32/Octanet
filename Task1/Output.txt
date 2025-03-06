@@ -1,0 +1,28 @@
+Output -
+
+ATM Machine
+1. Login
+2. Create Account
+3. Exit
+Enter choice: 2
+Enter new account number: 123456
+Enter new PIN: 
+Account created successfully!
+
+ATM Machine
+1. Login
+2. Create Account
+3. Exit
+Enter choice: 1
+Enter account number: 123456
+Enter PIN: 
+Login successful!
+
+ATM Menu
+1. Check Balance
+2. Deposit
+3. Withdraw
+4. Change PIN
+5. Transaction History
+6. Logout
+Enter choice: 
